@@ -1,58 +1,84 @@
 ## Russell Wind
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+**Software Engineer in Continuous Development**
+
+## ( [Profile](#profile) || [Projects](#projects) || [Skills](#skills) || [Experience](#experience) || [Education](#education) || [Hobbies](#hobbies) || [Blog](#blog))
+
+## Profile
+
+After being a teacher for 10 years I was desperate for a new challenge and have found it in tech. Although I have loved developing my skills at Makers Academy, I'm desperate to learn more by working on bigger projects.
+
+#### Key Skills
+- JavaScript/React
+- Rails/Ruby
+- Agile and XP values.
+- Strong TDD and Debugging process.
+- A quick study with a dogged mindset.
+
+## Projects
+
+Title | Description | Tech Used | Review | Link
+--- | --- | --- | --- | ---
+Makers Final Project: Happy Chappy | Happy Chappy is a mood check in App where you can chat to like minded people. It incorporates a simple chat bot and conversation channels based on your mood. | React, Rails, Heroku, Travis CI, ActionCable | I ran morning tutorials or run throughs to keep everyone up to date on the project and technologies necessary. | [Project blog](https://medium.com/happy-chappy-dev-blog), [GitHub](https://github.com/Sumeet-Raina/HappyChappy)
+Acebook: Fantastic 4 | 4 Training Developers team up to improve teamwork as well as build their own version of facebook | Rails, Heroku, Travis CI, Rubocop, Codeclimate | Developed strong Agile practices from my team members as well as an understanding of my own role and in a small team. | [Read the blog](https://medium.com/fantastic-four-acebook-project), [GitHub](https://github.com/krisswiltshire30/acebook-fantastic-four)
+News Summary Challenge | A news summary web app, the challenge: No Libraries allowed! | JavaScript, Guardian API, Javascript, My own testing suite: Lemons or Lemonade | Limitations can lead to some of the most interesting approaches. I loved the challenge of building my own testing environment. | [See the project on GitHub](https://github.com/Stegosauruss/news-summary-challenge)
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Constant Development
+I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. In tech opportunities to grow are never ending. I have attended meet-ups and lectures on topics such as chat-bots and AI and I'm always keen to incorporate these into my own work.
 
-#### This Skill
+#### SOLID as a rock
+I like to build beautiful and readable code. It's important to me that when someone looks at my work I can feel proud of what I have created. I enjoy practicing tech tests to hone these skills.
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-## Education
-
-#### Makers Academy (July 22nd to October 12th 2019)
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
-
-#### University of Kent (start_date to end_date)
-
-- BSc Mathematics
-- 2:2
-- Delivered the "Student Life in Canterbury" speech for prospective students during open days 
-
-#### PGCE: Mathematics (Cantrbury Christ-Church University)
-
-I have been a working teacher for the last 10 years. I feel this gives me a varied skillset as well as an ability to learn and share ideas.
-
-#### National Professional Qualification for Middle Leaders (Anglia Ruskin University)
-
-This qualification gave me time to consider the best ways to gain the most from colleagues. It taught me that this is not a one size fits all approach and that in order to manage a team well you have to understand how those individuals operate and use the appropriate strategy.
+#### No Problem too large
+It was a big change from Education to Tech but problem solving is universal. By taking a step back and trying to visualise the problem, even large technical issues can be broken down into smaller steps and solved just like a tricky maths question.
 
 ## Experience
 
-**The FitzWimarc School** (July 2010 to July 2019)    
-*Key Stage 4 Coordinator: Mathematics*  
-- Varied skillset, ability to cope under pressure.
-- Magagerial Experience: I was a middle leader in the school, taking charge of Performance Management reviews as well as organising and running departmental initiatives.
-- Understanding of how to learn as well as how to share my learning with others.
-- 
+**The FitzWimarc School** (July 2010 to July 2019) 
+*Teacher: Mathematics*
+- Ability to produce engaging presentations to varied groups.
+- A Deep understanding of how to learn as well as how to share my understanding with others.
+- Empathy towards the diverse backgrounds of those I was educating.
+
+*Key Stage 4 Coordinator: Mathematics*
+- Responsible for Mathematics GCSE results for the whole school.
+- Organisation and delivery of staff meetings
+- Ran performance reviews of my department as well as day to day management to ensure they met their review targets.
+- Implementation of department wide initiatives as well as sharing said initiatives on a school wide level.
+
+## Education
+
+#### Makers Academy (Jul '19 - Oct '19)
+
+Intensive 16 week bootcamp with a focus on:
+- Ruby, Rails, JavaScript
+- RSpec, Jasmine
+- OOP, TDD, MVC, DDD
+- Agile/XP
+
+
+#### University of Kent (Sep '06 - Jul '09)
+
+- BSc: Mathematics 2:2
+- I have changed a lot since my University days but one thing I have kept with me is a dauntless approach to complicated (or complicated looking) problems. 
+
+#### Other Qualifications
+
+- National Professional Qualification for Middle Leaders (Anglia Ruskin University)
+- Postgraduate Certificate in Education: Mathematics 2009-2010
+- Codecademy: Build Front-End Apps from Scratch
+
+
 
 ## Hobbies
+- Writing and recording music with my band.
+- Running: Midnight Runners and Park-Run
+- Yoga and meditation
+- Board games: Anything from social or casual games to complicated Euro's
+- Podcasts: Radiolab, Command Line Heroes, The Changelog...
 
-I play guitar, as well as recording songs in a studio I have played live gigs as part of a band. I enjoy running and am currently working on reducing my 5k time.
+## Blog
+[I kept a blog throughout my learning journey into tech. Read about how I'm getting on here](https://medium.com/@russell.wind). 
