@@ -1,3 +1,6 @@
+<p align="center"><a href="https://medium.com/@russell.wind"><img src="https://cdn-images-1.medium.com/max/1600/1*emiGsBgJu2KHWyjluhKXQw.png" alt="medium" hspace="50" height="42" width="42" ></a>
+<a href="https://www.linkedin.com/in/russell-wind-52a1b1195/"><img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a></p>
+
 # Russell Wind
 
 **Junior Full Stack Developer**
