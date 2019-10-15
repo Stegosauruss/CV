@@ -9,7 +9,7 @@
 
 ## Profile
 
-After being a mathematics teacher for 10 years, it was time for a new challenge so I signed up to a software engineer bootcamp. I thrived studying at Makers Academy, particularly during tech tests and while working collaboratively in group projects. Now I'm eager to jump to the next stage by participating in building larger scale commercial products.
+After being a mathematics teacher for 10 years, it was time for a new challenge so I signed up to a software engineer bootcamp. I thrived studying at Makers Academy, particularly during tech tests and while working collaboratively in group projects. Currently learning typescript and working on my own projects but I'm eager to get involved in building larger scale commercial products.
 
 #### Key Skills
 - JavaScript/React
