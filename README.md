@@ -9,7 +9,7 @@
 
 ## Profile
 
-After being a mathematics teacher for 10 years, it was time for a new challenge so I signed up to a software engineer bootcamp. I thrived studying at Makers Academy, particularly during tech tests and while working collaboratively in group projects. Currently learning typescript and working on my own projects but I'm eager to get involved in building larger scale commercial products.
+After a successful career in education, it was time for a new challenge. I thrived at Makers academy, particularly during tech tests and when working collaboratively with other devs. I am currently continuing my studies and working on my own projects but eager to participate in building larger scale commercial products.
 
 #### Key Skills
 - JavaScript/React
@@ -22,15 +22,15 @@ After being a mathematics teacher for 10 years, it was time for a new challenge 
 
 Title | Description | Tech Used | Review | Link
 --- | --- | --- | --- | ---
-Happy Chappy | Happy Chappy is a mood check-in app where you can chat to like-minded people. It incorporates a simple chat bot and conversation channels based on your mood. | React, Rails, Heroku, Travis CI, ActionCable | I ran morning tutorials or run throughs to keep everyone up to date on the project and technologies. | [Blog](https://medium.com/happy-chappy-dev-blog), [GitHub](https://github.com/Stegosauruss/HappyChappy)
-Acebook: Fantastic 4 | 4 Training Developers team up to improve teamwork as well as build their own version of facebook | Rails, Heroku, Travis CI, Rubocop, Codeclimate | Developed strong Agile practices from my team members as well as an understanding of my own role and in a small team. | [Blog](https://medium.com/fantastic-four-acebook-project), [GitHub](https://github.com/Stegosauruss/acebook-fantastic-four)
-News Summary Challenge | A news summary web app, the challenge: No Libraries allowed! | JavaScript, Guardian API, Javascript, My own testing suite: Lemons or Lemonade | Limitations can lead to some of the most interesting approaches. I loved the challenge of building my own testing environment. | [GitHub](https://github.com/Stegosauruss/news-summary-challenge)
+Happy Chappy | Happy Chappy is a mood check-in app where you can chat to like-minded people. It incorporates a simple chat bot and seperate conversation channels depending on the mood selected. | React, Rails, Heroku, Travis CI, ActionCable | I ran morning tutorials to keep everyone up to date on the project and technologies. | [Blog](https://medium.com/happy-chappy-dev-blog), [GitHub](https://github.com/Stegosauruss/HappyChappy)
+Acebook: Fantastic 4 | 4 Training Developers team up to improve teamwork while building their own version of Facebook. | Rails, Heroku, Travis CI, Rubocop, Codeclimate | Developed strong Agile practices from my team members as well as an understanding of my own role in a small team. | [Blog](https://medium.com/fantastic-four-acebook-project), [GitHub](https://github.com/Stegosauruss/acebook-fantastic-four)
+News Summary Challenge | A news summary web app, the challenge: No Libraries allowed! | JavaScript, Guardian API, Javascript, My own testing suite: Lemons or Lemonade | Limitations can lead to some of the most interesting approaches. I loved the challenge of building my own testing environment and developing my skills by accessing an API via JavaScript. | [GitHub](https://github.com/Stegosauruss/news-summary-challenge)
 
 
 ## Skills
 
 #### Continuous Development
-I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. In tech, opportunities to grow are never ending. I have attended meet-ups and lectures on topics such as chat-bots and AI and I'm always keen to incorporate these into my own work.
+I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending. I have attended meet-ups and lectures on topics such as chat-bots and AI and I'm currently incorporating what I have learnt into my own projects.
 [I recently tracked my learning at Makers Academy via a daily blog.](https://medium.com/@russell.wind). 
 
 #### SOLID principles
@@ -52,9 +52,9 @@ Changing Career from Education to Technology was a big change but problem solvin
 *Key Stage 4 Coordinator: Mathematics*
 - My school recognised a talent in people management in me and so I was promoted to a middle management position.
 - Responsible for Mathematics GCSE results for the whole school.
+- Overseeing the change into the new 9-1 syllabus, it was necessary for me to adapt departmental practice as well as share our findings with the rest of the school.
 - Organisation and delivery of staff meetings
 - Ran performance reviews of my department as well as day to day management to ensure they met their review targets.
-- Implementation of department wide initiatives as well as sharing said initiatives on a school wide level.
 
 ## Education
 
@@ -81,7 +81,7 @@ Intensive 16 week bootcamp with a focus on:
 
 
 ## Hobbies
-- Writing and recording music with my band
+- Songwriting and recording music.
 - Running: Midnight Runners and Park-Run
 - Yoga and meditation
 - Board games: Anything from social or casual games to complicated Euros
