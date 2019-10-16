@@ -41,7 +41,7 @@ Changing Career from Education to Technology was a big change but problem solvin
 
 ## Experience
 
-**The FitzWimarc School** (July 2010 to July 2019) 
+**The FitzWimarc School** (July 2010 to August 2019) 
 *Teacher: Mathematics*
 - Ability to produce engaging presentations to varied groups.
 - Educated students from ages 11-18 but was more commonly given the important GCSE and A Level classes.
@@ -49,7 +49,7 @@ Changing Career from Education to Technology was a big change but problem solvin
 - A Deep understanding of how to learn as well as how to share my understanding with others.
 - Empathy towards the diverse backgrounds of those I was educating.
 
-*Key Stage 4 Coordinator: Mathematics*
+**Key Stage 4 Coordinator: Mathematics** (April 2015 to August 2019)
 - My school recognised a talent in people management in me and so I was promoted to a middle management position.
 - Responsible for Mathematics GCSE results for the whole school.
 - Overseeing the change into the new 9-1 syllabus, it was necessary for me to adapt departmental practice as well as share our findings with the rest of the school.
