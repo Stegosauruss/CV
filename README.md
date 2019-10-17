@@ -12,8 +12,9 @@
 After a successful career in education, it was time for a new challenge. I thrived at Makers academy, particularly during tech tests and when working collaboratively with other devs. I am currently continuing my studies and working on my own projects but eager to participate in building larger scale commercial products.
 
 #### Key Skills
-- JavaScript/React
-- Rails/Ruby
+- JavaScript, React, jQuery, Jasmine, Jest
+- Ruby, Rails, RSpec, Sinatra
+- Travis CI, Heroku, Git, Html, CSS
 - Agile and XP values
 - Strong TDD and Debugging process
 - A Quick Study, Persistent and Determined
