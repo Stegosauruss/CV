@@ -9,7 +9,7 @@
 
 ## Profile
 
-After a successful career in education, it was time for a new challenge. I thrived at Makers academy, particularly during tech tests and when working collaboratively with other devs. I am currently continuing my studies and working on my own projects but eager to participate in building larger scale commercial products.
+After a successful career in education, it was time for a new challenge. I thrived at Makers Academy, particularly during tech tests and when working collaboratively with other devs. I am currently continuing my studies and working on my own projects but eager to participate in building larger scale commercial products.
 
 #### Key Skills
 - JavaScript, React, jQuery, Jasmine, Jest
