@@ -35,6 +35,11 @@ Changing Career from Education to Technology was a big change but problem solvin
 
 ## Experience
 
+**Junior software developer: Housekeep** (November 2019 - Current)
+- I was and am thrilled to have been hired by Housekeep shortly after finishing Makers Academy. Working in a smaller team means not only that I needed to step up and contribute from the start but also that I get the chance to work on a diverse portfolio of tickets every sprint.
+- Working throughout the Covid crisis, there was a need to respond dynamically to a changing and highly pressured environment. This time has made me a stronger developer and professional.
+- As a result of my strong work I have been given charge of a major objective from the company. This has provided me with opportunities to consider product decisions and priorities along with the best way to deliver them through code.
+
 **The FitzWimarc School** (July 2010 to August 2019) 
 *Teacher: Mathematics*
 - Ability to produce engaging presentations to varied groups.
@@ -49,11 +54,6 @@ Changing Career from Education to Technology was a big change but problem solvin
 - Overseeing the change into the new 9-1 syllabus, it was necessary for me to adapt departmental practice as well as share our findings with the rest of the school.
 - Organisation and delivery of staff meetings
 - Ran performance reviews of my department as well as day to day management to ensure they met their review targets.
-
-**Junior software developer: Housekeep** (November 2019 - Current)
-- I was and am thrilled to have been hired by Housekeep shortly after finishing Makers Academy. Working in a smaller team means not only that I needed to step up and contribute from the start but also that I get the chance to work on a diverse portfolio of tickets every sprint.
-- Working throughout the Covid crisis, there was a need to respond dynamically to a changing and highly pressured environment. This time has made me a stronger developer and professional.
-- As a result of my strong work I have been given charge of a major objective from the company. This has provided me with opportunities to consider product decisions and priorities along with the best way to deliver them through code.
 
 
 ## Education
