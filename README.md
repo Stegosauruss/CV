@@ -20,26 +20,6 @@ After a successful career teaching others, I decided it was time for some learni
 - Strong TDD and Debugging process
 - A Quick Study, Persistent and Determined
 
-## Projects
-
-Title | Description | Tech Used | Review | Link
---- | --- | --- | --- | ---
-Happy Chappy | Happy Chappy is a mood check-in app where you can chat to like-minded people. It incorporates a simple chat bot and seperate conversation channels depending on the mood selected. | React, Rails, Heroku, Travis CI, ActionCable | I ran morning tutorials to keep everyone up to date on the project and technologies. | [Blog](https://medium.com/happy-chappy-dev-blog), [GitHub](https://github.com/Stegosauruss/HappyChappy)
-Acebook: Fantastic 4 | 4 Training Developers team up to improve teamwork while building their own version of Facebook. | Rails, Heroku, Travis CI, Rubocop, Codeclimate | Developed strong Agile practices from my team members as well as an understanding of my own role in a small team. | [Blog](https://medium.com/fantastic-four-acebook-project), [GitHub](https://github.com/Stegosauruss/acebook-fantastic-four)
-News Summary Challenge | A news summary web app, the challenge: No Libraries allowed! | JavaScript, Guardian API, Javascript, My own testing suite: Lemons or Lemonade | Limitations can lead to some of the most interesting approaches. I loved the challenge of building my own testing environment and developing my skills by accessing an API via JavaScript. | [GitHub](https://github.com/Stegosauruss/news-summary-challenge)
-
-
-## Skills
-
-#### Continuous Development
-I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending. I have attended meet-ups and lectures on topics such as chat-bots and AI. I feel that with enough time and support I can tackle any problem set in front of me, the harder the challenge the stronger I will be at the end of it.
-
-#### SOLID principles
-I like to build beautiful and readable code. It's important to me that when someone looks at my work I can feel proud of what I have created. I enjoy practicing tech tests to hone these skills. Currently I participating in [Advent of code 2020](https://adventofcode.com/).
-
-#### Problem Solving
-Changing Career from Education to Technology was a big change but problem solving is universal. My experience solving mathematical problems allows me to break down large technical isses into smaller steps. I can visualise the larger picture in order to explain with clarity.
-
 
 ## Experience
 
@@ -86,6 +66,26 @@ Intensive 16 week bootcamp with a focus on:
 - National Professional Qualification for Middle Leaders (Anglia Ruskin University)
 - Postgraduate Certificate in Education: Mathematics (2009-2010)
 - Codecademy: Build Front-End Apps from Scratch
+
+## Skills
+
+#### Continuous Development
+I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending. I have attended meet-ups and lectures on topics such as chat-bots and AI. I feel that with enough time and support I can tackle any problem set in front of me, the harder the challenge the stronger I will be at the end of it.
+
+#### SOLID principles
+I like to build beautiful and readable code. It's important to me that when someone looks at my work I can feel proud of what I have created. I enjoy practicing tech tests to hone these skills. Currently I participating in [Advent of code 2020](https://adventofcode.com/).
+
+#### Problem Solving
+Changing Career from Education to Technology was a big change but problem solving is universal. My experience solving mathematical problems allows me to break down large technical isses into smaller steps. I can visualise the larger picture in order to explain with clarity.
+
+
+## Projects
+
+Title | Description | Tech Used | Review | Link
+--- | --- | --- | --- | ---
+Happy Chappy | Happy Chappy is a mood check-in app where you can chat to like-minded people. It incorporates a simple chat bot and seperate conversation channels depending on the mood selected. | React, Rails, Heroku, Travis CI, ActionCable | I ran morning tutorials to keep everyone up to date on the project and technologies. | [Blog](https://medium.com/happy-chappy-dev-blog), [GitHub](https://github.com/Stegosauruss/HappyChappy)
+Acebook: Fantastic 4 | 4 Training Developers team up to improve teamwork while building their own version of Facebook. | Rails, Heroku, Travis CI, Rubocop, Codeclimate | Developed strong Agile practices from my team members as well as an understanding of my own role in a small team. | [Blog](https://medium.com/fantastic-four-acebook-project), [GitHub](https://github.com/Stegosauruss/acebook-fantastic-four)
+News Summary Challenge | A news summary web app, the challenge: No Libraries allowed! | JavaScript, Guardian API, Javascript, My own testing suite: Lemons or Lemonade | Limitations can lead to some of the most interesting approaches. I loved the challenge of building my own testing environment and developing my skills by accessing an API via JavaScript. | [GitHub](https://github.com/Stegosauruss/news-summary-challenge)
 
 
 ## Hobbies
