@@ -5,7 +5,7 @@
 
 **Junior Full Stack Developer**
 
-## [Profile](#profile) || [Experience](#experience) || [Education](#education) || [Skills](#skills) || [Projects](#projects) || [Hobbies](#hobbies)
+## [Profile](#profile) || [Principles](#principles) || [Experience](#experience) || [Education](#education) || [Projects](#projects) || [Hobbies](#hobbies)
 
 ## Profile
 
@@ -19,6 +19,18 @@ After a successful career teaching others, I decided it was time for some learni
 - Agile and XP values
 - Strong TDD and Debugging process
 - A Quick Study, Persistent and Determined
+
+
+## Principles
+
+#### Continuous Development
+I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending. I have attended meet-ups and lectures on topics such as chat-bots and AI. I feel that with enough time and support I can tackle any problem set in front of me, the harder the challenge the stronger I will be at the end of it.
+
+#### SOLID
+I like to build beautiful and readable code. It's important to me that when someone looks at my work I can feel proud of what I have created. I enjoy practicing tech tests to hone these skills. Currently I participating in [Advent of code 2020](https://adventofcode.com/).
+
+#### Problem Solving
+Changing Career from Education to Technology was a big change but problem solving is universal. My experience solving mathematical problems allows me to break down large technical isses into smaller steps. I can visualise the larger picture in order to explain with clarity.
 
 
 ## Experience
@@ -66,17 +78,6 @@ Intensive 16 week bootcamp with a focus on:
 - National Professional Qualification for Middle Leaders (Anglia Ruskin University)
 - Postgraduate Certificate in Education: Mathematics (2009-2010)
 - Codecademy: Build Front-End Apps from Scratch
-
-## Skills
-
-#### Continuous Development
-I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending. I have attended meet-ups and lectures on topics such as chat-bots and AI. I feel that with enough time and support I can tackle any problem set in front of me, the harder the challenge the stronger I will be at the end of it.
-
-#### SOLID principles
-I like to build beautiful and readable code. It's important to me that when someone looks at my work I can feel proud of what I have created. I enjoy practicing tech tests to hone these skills. Currently I participating in [Advent of code 2020](https://adventofcode.com/).
-
-#### Problem Solving
-Changing Career from Education to Technology was a big change but problem solving is universal. My experience solving mathematical problems allows me to break down large technical isses into smaller steps. I can visualise the larger picture in order to explain with clarity.
 
 
 ## Projects
