@@ -9,12 +9,13 @@
 
 ## Profile
 
-After a successful career in education, it was time for a new challenge. I thrived at Makers Academy, particularly during tech tests and when working collaboratively with other devs. I am currently continuing my studies and working on my own projects but eager to participate in building larger scale commercial products.
+After a successful career teaching others, I decided it was time for some learning myself and signed up to Makers Academy's developer bootcamp. Since then I have been hard at work writing well factored code which has practical applications.
 
 #### Key Skills
-- JavaScript, React, jQuery, Jasmine, Jest
+- Python, Django, DjangoCms, Unittest
+- JavaScript, Typescript, React, Angular, Ionic, jQuery
 - Ruby, Rails, RSpec, Sinatra
-- Travis CI, Heroku, Git, Html, CSS
+- Travis CI, Codeship, Heroku, Git, Html, CSS
 - Agile and XP values
 - Strong TDD and Debugging process
 - A Quick Study, Persistent and Determined
@@ -31,14 +32,14 @@ News Summary Challenge | A news summary web app, the challenge: No Libraries all
 ## Skills
 
 #### Continuous Development
-I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending. I have attended meet-ups and lectures on topics such as chat-bots and AI and I'm currently incorporating what I have learnt into my own projects.
-[I recently tracked my learning at Makers Academy via a daily blog.](https://medium.com/@russell.wind). 
+I love working in tech. Every day I become a stronger dev but the scale of what I don't know becomes clearer as well. New developments mean opportunities to grow are never-ending. I have attended meet-ups and lectures on topics such as chat-bots and AI. I feel that with enough time and support I can tackle any problem set in front of me, the harder the challenge the stronger I will be at the end of it.
 
 #### SOLID principles
-I like to build beautiful and readable code. It's important to me that when someone looks at my work I can feel proud of what I have created. I enjoy practicing tech tests to hone these skills.
+I like to build beautiful and readable code. It's important to me that when someone looks at my work I can feel proud of what I have created. I enjoy practicing tech tests to hone these skills. Currently I participating in [Advent of code 2020](https://adventofcode.com/)
 
 #### Problem Solving
 Changing Career from Education to Technology was a big change but problem solving is universal. My experience solving mathematical problems allows me to break down large technical isses into smaller steps. I can visualise the larger picture in order to explain with clarity.
+
 
 ## Experience
 
@@ -57,6 +58,12 @@ Changing Career from Education to Technology was a big change but problem solvin
 - Organisation and delivery of staff meetings
 - Ran performance reviews of my department as well as day to day management to ensure they met their review targets.
 
+**Junior software developer: Housekeep** (November 2019 - Current)
+- I was and am thrilled to have been hired by Housekeep shortly after finishing Makers Academy. Working in a smaller team means not only that I needed to step up and contribute from the start but also that I get the chance to work on a diverse portfolio of tickets every sprint.
+- Working throughout the Covid crisis, there was a need to respond dynamically to a changing and highly pressured environment. This time has made me a stronger developer and professional.
+- As a result of my strong work I have been given charge of a major objective from the company. This has provided me with opportunities to consider product decisions and priorities along with the best way to deliver them through code.
+
+
 ## Education
 
 #### Makers Academy (Jul '19 - Oct '19)
@@ -66,6 +73,7 @@ Intensive 16 week bootcamp with a focus on:
 - RSpec, Jasmine
 - OOP, TDD, MVC, DDD
 - Agile/XP
+[I tracked my learning at Makers Academy via a daily blog.](https://medium.com/@russell.wind).
 
 
 #### University of Kent (Sep '06 - Jul '09)
@@ -78,7 +86,6 @@ Intensive 16 week bootcamp with a focus on:
 - National Professional Qualification for Middle Leaders (Anglia Ruskin University)
 - Postgraduate Certificate in Education: Mathematics (2009-2010)
 - Codecademy: Build Front-End Apps from Scratch
-
 
 
 ## Hobbies
