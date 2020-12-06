@@ -5,7 +5,7 @@
 
 **Junior Full Stack Developer**
 
-## [Profile](#profile) || [Projects](#projects) || [Skills](#skills) || [Experience](#experience) || [Education](#education) || [Hobbies](#hobbies)
+## [Profile](#profile) || [Experience](#experience) || [Education](#education) || [Skills](#skills) || [Projects](#projects) || [Hobbies](#hobbies)
 
 ## Profile
 
