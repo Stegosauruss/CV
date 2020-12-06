@@ -65,7 +65,7 @@ Intensive 16 week bootcamp with a focus on:
 - RSpec, Jasmine
 - OOP, TDD, MVC, DDD
 - Agile/XP
-[I tracked my learning at Makers Academy via a daily blog.](https://medium.com/@russell.wind).
+- [I tracked my learning at Makers Academy via a daily blog.](https://medium.com/@russell.wind).
 
 
 #### University of Kent (Sep '06 - Jul '09)
