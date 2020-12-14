@@ -3,7 +3,7 @@
 
 # Russell Wind
 
-**Junior Full Stack Developer**
+**Full Stack Developer**
 
 ## [Profile](#profile) || [Principles](#principles) || [Experience](#experience) || [Education](#education) || [Projects](#projects) || [Hobbies](#hobbies)
 
